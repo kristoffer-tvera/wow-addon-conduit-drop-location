@@ -1,6 +1,6 @@
-## Interface: 100105
+## Interface: 100107
 ## Title: ConduitDropLocation
-## Version: v10.1.5
+## Version: v10.1.7
 ## Notes: ConduitDropLocation
 ## Author: Bsl
 
